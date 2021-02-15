@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/orders-management-front/static/css/main.cfcfa1ea.chunk.css",
+    "main.js": "/orders-management-front/static/js/main.76120f2a.chunk.js",
+    "main.js.map": "/orders-management-front/static/js/main.76120f2a.chunk.js.map",
+    "runtime-main.js": "/orders-management-front/static/js/runtime-main.63ed3dca.js",
+    "runtime-main.js.map": "/orders-management-front/static/js/runtime-main.63ed3dca.js.map",
+    "static/js/2.5715578b.chunk.js": "/orders-management-front/static/js/2.5715578b.chunk.js",
+    "static/js/2.5715578b.chunk.js.map": "/orders-management-front/static/js/2.5715578b.chunk.js.map",
+    "index.html": "/orders-management-front/index.html",
+    "precache-manifest.292772f357f2f67f81728ae4f5ea82ce.js": "/orders-management-front/precache-manifest.292772f357f2f67f81728ae4f5ea82ce.js",
+    "service-worker.js": "/orders-management-front/service-worker.js",
+    "static/css/main.cfcfa1ea.chunk.css.map": "/orders-management-front/static/css/main.cfcfa1ea.chunk.css.map",
+    "static/js/2.5715578b.chunk.js.LICENSE.txt": "/orders-management-front/static/js/2.5715578b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63ed3dca.js",
+    "static/js/2.5715578b.chunk.js",
+    "static/css/main.cfcfa1ea.chunk.css",
+    "static/js/main.76120f2a.chunk.js"
+  ]
+}
