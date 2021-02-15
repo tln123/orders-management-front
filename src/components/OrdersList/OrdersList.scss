@@ -1,0 +1,25 @@
+.orders {
+  margin: 0;
+  padding: 0;
+}
+
+.results {
+  color: #7a92a5;
+  font-size: 14px;
+  margin: 12px 5px;
+}
+
+.employee-box {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  width: 60vw;
+
+  h2 {
+    margin-top: 20px;
+
+    @media (max-width: 850px) {
+      font-size: 1em;
+    }
+  }
+}

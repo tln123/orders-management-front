@@ -1,0 +1,44 @@
+main {
+  max-width: 1000px;
+    margin: 0 auto;
+
+
+  .wrapper{
+    margin: 75px auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .signout {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 1.5em;
+    margin-top: 20px;
+
+    @media (max-width: 850px) {
+      font-size: 1em;
+    }
+  }
+
+  header {
+    width: 100%;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px 1px #e1e5e8;
+    margin-bottom: 14px;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    position: relative;
+  }
+
+  .tester {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+  }
+}
+
+

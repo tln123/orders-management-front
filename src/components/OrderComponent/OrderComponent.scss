@@ -1,0 +1,36 @@
+.orderCard {
+  position: relative;
+  width: 65vw;
+  max-width: 1000px;
+  min-width: 340px;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 2px 6px 1px #e1e5e8;
+  margin: 0 -1px 14px -1px;
+  border: 1px solid #fff;
+  padding: 10px 20px;
+  transition: box-shadow 0.2s ease-in-out;
+  cursor: pointer;
+
+    &:hover {
+      box-shadow: 0 2px 6px 1px #a5a5a5;
+    }
+
+    .generalData {
+      padding-top: 6px;
+      display: inline-block;
+      width: 45%;
+    }
+
+    .fulfillmentData {
+      display: inline-block;
+      vertical-align: top;
+      width: 25%;
+    }
+
+    .paymentData {
+      display: inline-block;
+      text-align: end;
+      width: 30%;
+    }
+  }

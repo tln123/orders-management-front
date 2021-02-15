@@ -1,0 +1,22 @@
+.modal-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  .modal-item-title {
+    display: flex;
+    width: 65%;
+    align-items: center;
+    justify-content: flex-start;
+
+    img {
+      margin-right: 8px;
+    }
+  }
+
+  .modal-items-numbers {
+    display: flex;
+    width: 35%;
+    justify-content: space-around;
+  }
+}
