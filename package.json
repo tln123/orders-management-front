@@ -1,6 +1,6 @@
 {
   "name": "orders-managment-front",
-  "homepage": "https://tln123.github.io/orders-management-front",
+  "homepage": "https://tln123.github.io/orders-management-front/public",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
